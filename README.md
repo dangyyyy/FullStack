@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://dangyyy.github.io/FullStack/)
+- [Публичная страница на GitHub Pages](https://dangyyyy.github.io/FullStack/)
